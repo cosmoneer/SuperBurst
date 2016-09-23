@@ -1,0 +1,95 @@
+
+
+   ---- Transcoding 'C:\Users\Cosmoneer\Documents\GitHub\CosmoneerJr\SuperBurst\Fab\SuperBurst-B.Mask.gbr' ----   Wed Sep 21 02:43:31 2016
+
+D11   --> D100
+D12   --> D101
+D13   --> D102
+D14   --> D103
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Cosmoneer\Documents\GitHub\CosmoneerJr\SuperBurst\Fab\SuperBurst-B.SilkS.gbr' ----   Wed Sep 21 02:43:31 2016
+
+D11   --> D104
+D12   --> D105
+D13   --> D106
+D14   --> D107
+D15   --> D108
+D16   --> D109
+D17   --> D110
+D18   --> D111
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Cosmoneer\Documents\GitHub\CosmoneerJr\SuperBurst\Fab\SuperBurst-drl_map.gbr' ----   Wed Sep 21 02:43:31 2016
+
+D11   --> D112
+D12   --> D113
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Cosmoneer\Documents\GitHub\CosmoneerJr\SuperBurst\Fab\SuperBurst-Dwgs.User.gbr' ----   Wed Sep 21 02:43:31 2016
+
+D11   --> D114
+D12   --> D115
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Cosmoneer\Documents\GitHub\CosmoneerJr\SuperBurst\Fab\SuperBurst-Edge.Cuts.gbr' ----   Wed Sep 21 02:43:31 2016
+
+D11   --> D116
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Cosmoneer\Documents\GitHub\CosmoneerJr\SuperBurst\Fab\SuperBurst-F.Cu.gbr' ----   Wed Sep 21 02:43:31 2016
+
+D11   --> D117
+D12   --> D118
+D13   --> D119
+D14   --> D120
+D15   --> D121
+D16   --> D122
+D17   --> D123
+D18   --> D124
+D19   --> D125
+D20   --> D126
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Cosmoneer\Documents\GitHub\CosmoneerJr\SuperBurst\Fab\SuperBurst-F.Mask.gbr' ----   Wed Sep 21 02:43:31 2016
+
+D11   --> D127
+D12   --> D128
+D13   --> D129
+D14   --> D130
+D15   --> D131
+D16   --> D132
+D17   --> D133
+D18   --> D134
+D19   --> D135
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Cosmoneer\Documents\GitHub\CosmoneerJr\SuperBurst\Fab\SuperBurst-F.SilkS.gbr' ----   Wed Sep 21 02:43:31 2016
+
+D11   --> D136
+D12   --> D137
+D13   --> D138
+D14   --> D139
+D15   --> D140
+D16   --> D141
+D17   --> D142
+D18   --> D143
+D19   --> D144
+D20   --> D145
+D21   --> D146
+D22   --> D147
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Cosmoneer\Documents\GitHub\CosmoneerJr\SuperBurst\Fab\SuperBurst-B.Cu.gbr' ----   Wed Sep 21 02:54:28 2016
+
+D18   --> D148
+D19   --> D149
+-----------------------------------------------------------------
