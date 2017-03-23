@@ -1,7 +1,7 @@
 (export (version D)
   (design
-    (source C:\Users\Cosmoneer\Documents\GitHub\CosmoneerJr\SuperBurst\SuperBurst.sch)
-    (date "9/20/2016 8:05:13 PM")
+    (source C:/Users/Cosmoneer/Documents/GitHub/CosmoneerJr/SuperBurst/SuperBurst.sch)
+    (date "9/25/2016 1:35:54 PM")
     (tool "Eeschema 4.0.2-stable")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -47,7 +47,7 @@
       (tstamp 57C9201F))
     (comp (ref P2)
       (value CONN_01X03)
-      (footprint Pin_Headers:Pin_Header_Angled_1x03)
+      (footprint SuperCap:Pin_Header_Angled_1x03B)
       (libsource (lib conn) (part CONN_01X03))
       (sheetpath (names /) (tstamps /))
       (tstamp 57C9248A))
@@ -286,14 +286,14 @@
         (pin (num 1) (name K) (type passive))
         (pin (num 2) (name A) (type passive)))))
   (libraries
-    (library (logical conn)
-      (uri "E:\\Program Files\\KiCad\\share\\kicad\\library\\conn.lib"))
-    (library (logical SuperBurst)
-      (uri C:\Users\Cosmoneer\Documents\GitHub\CosmoneerJr\SuperBurst\SuperBurst.lib))
     (library (logical device)
       (uri "E:\\Program Files\\KiCad\\share\\kicad\\library\\device.lib"))
     (library (logical transistors)
-      (uri "E:\\Program Files\\KiCad\\share\\kicad\\library\\transistors.lib")))
+      (uri "E:\\Program Files\\KiCad\\share\\kicad\\library\\transistors.lib"))
+    (library (logical conn)
+      (uri "E:\\Program Files\\KiCad\\share\\kicad\\library\\conn.lib"))
+    (library (logical SuperBurst)
+      (uri C:\Users\Cosmoneer\Documents\GitHub\CosmoneerJr\SuperBurst\SuperBurst.lib)))
   (nets
     (net (code 1) (name "Net-(Q4-Pad1)")
       (node (ref Q4) (pin 1))

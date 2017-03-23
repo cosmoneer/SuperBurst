@@ -1,0 +1,219 @@
+Cmp-Mod V01 Created by PcbNew   date = 9/25/2016 1:23:08 PM
+
+BeginCmp
+TimeStamp = 57E0CE50
+Path = /57B8B35E
+Reference = C1;
+ValeurCmp = 0.47F (Low ESR);
+IdModule  = SuperCap:CP5.5V1.5F;
+EndCmp
+
+BeginCmp
+TimeStamp = 57E0CE56
+Path = /57DF9663
+Reference = D1;
+ValeurCmp = 1N5817;
+IdModule  = Diodes_SMD:SMA-SMB_Universal_Handsoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 57E0CE5C
+Path = /57DF98F9
+Reference = D2;
+ValeurCmp = 1N5817;
+IdModule  = Diodes_SMD:SMA-SMB_Universal_Handsoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 57E0CE62
+Path = /57DF953B
+Reference = D3;
+ValeurCmp = LED;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 57E0CE68
+Path = /57E0F6AA
+Reference = D4;
+ValeurCmp = ZENER;
+IdModule  = Diodes_SMD:SMA-SMB_Universal_Handsoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 57E0CE6E
+Path = /57E0F407
+Reference = F1;
+ValeurCmp = FUSE;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 57E0CE75
+Path = /57C9201F
+Reference = P1;
+ValeurCmp = CONN_01X03;
+IdModule  = Pin_Headers:Pin_Header_Angled_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = 57E0CE7C
+Path = /57C9248A
+Reference = P2;
+ValeurCmp = CONN_01X03;
+IdModule  = Pin_Headers:Pin_Header_Angled_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = 57E0CE83
+Path = /57B8B13D
+Reference = Q1;
+ValeurCmp = Si2301;
+IdModule  = TO_SOT_Packages_SMD:SOT-23_Handsoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 57E0CE8A
+Path = /57B8E364
+Reference = Q2;
+ValeurCmp = Si2301;
+IdModule  = TO_SOT_Packages_SMD:SOT-23_Handsoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 57E0CE91
+Path = /57DF71A5
+Reference = Q3;
+ValeurCmp = Si2301;
+IdModule  = TO_SOT_Packages_SMD:SOT-23_Handsoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 57E0CE98
+Path = /57DF8322
+Reference = Q4;
+ValeurCmp = Si2301;
+IdModule  = TO_SOT_Packages_SMD:SOT-23_Handsoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 57E0CE9F
+Path = /57DF9A49
+Reference = Q5;
+ValeurCmp = Si2301;
+IdModule  = TO_SOT_Packages_SMD:SOT-23_Handsoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 57E0CEA6
+Path = /57DFE009
+Reference = Q6;
+ValeurCmp = PZT2222A;
+IdModule  = TO_SOT_Packages_SMD:SOT-23_Handsoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 57E0CEAD
+Path = /57E0B58C
+Reference = Q7;
+ValeurCmp = PZT2222A;
+IdModule  = TO_SOT_Packages_SMD:SOT-23_Handsoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 57E0CEB9
+Path = /57DFBB2C
+Reference = R2;
+ValeurCmp = OPEN;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 57E0CEBF
+Path = /57DFBD06
+Reference = R3;
+ValeurCmp = 0 Ohm;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 57E0CEC5
+Path = /57DF94D6
+Reference = R4;
+ValeurCmp = 1K Ohm;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 57E0CECB
+Path = /57DF9B5A
+Reference = R5;
+ValeurCmp = 10K Ohm;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 57E0CED1
+Path = /57DF9C32
+Reference = R6;
+ValeurCmp = 330 Ohm;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 57E0CED7
+Path = /57E0AC32
+Reference = R7;
+ValeurCmp = 10K Ohm;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 57E0CEDD
+Path = /57E0E77C
+Reference = R8;
+ValeurCmp = 0 Ohm;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 57E0CEE3
+Path = /57E0ED20
+Reference = R9;
+ValeurCmp = 0 Ohm;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 57E0CEEA
+Path = /57DF93B5
+Reference = U1;
+ValeurCmp = TC54;
+IdModule  = TO_SOT_Packages_SMD:SOT-23_Handsoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 57E1CF19
+Path = /57B8B3D9
+Reference = R1;
+ValeurCmp = 20ohm;
+IdModule  = Resistors_SMD:R_2512_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 57E227EB
+Path = 
+Reference = [NoRef];
+ValeurCmp = REF;
+IdModule  = CosmosLogo1:LOGO;
+EndCmp
+
+BeginCmp
+TimeStamp = 57E230F2
+Path = 
+Reference = [NoRef];
+ValeurCmp = LOGO;
+IdModule  = w_logo:Logo_silk_OSHW_6x6mm;
+EndCmp
+
+EndListe
